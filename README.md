@@ -80,5 +80,7 @@ Purpose: Understand percentage contribution of each category.
 ## Tools Used
 - SQL
 - My SQL
-- Author - Virat Thakran
-  
+
+##  Author
+- Virat Thakran
+
